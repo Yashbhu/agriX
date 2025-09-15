@@ -1,0 +1,12 @@
+{
+  "name": "supplychain-chaincode",
+  "version": "1.0.0",
+  "description": "Hyperledger Fabric chaincode for agricultural supply chain transparency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.5.0"
+  }
+}
